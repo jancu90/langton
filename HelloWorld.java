@@ -1,6 +1,28 @@
+import java.util.Scanner;
+
 public class HelloWorld {
    public static void main(String[] args) {
-      System.out.println("Git is Awesome");
-   }
+      	Scanner hello = new Scanner(System.in);
+	System.out.print("Enter text: ");
+	String new_text = hello.nextLine();
+	System.out.println(" You entered  :   " + new_text );
+      }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
