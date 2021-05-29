@@ -5,7 +5,7 @@
 Prerequisites
 --------------
 Install the Python3.6.
-
+Import math module
 
 ## Launch
 ### launch command prompt 
